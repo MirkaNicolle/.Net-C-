@@ -1,0 +1,14 @@
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\bin\Debug\net8.0\Fundamentos.exe
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\bin\Debug\net8.0\Fundamentos.deps.json
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\bin\Debug\net8.0\Fundamentos.runtimeconfig.json
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\bin\Debug\net8.0\Fundamentos.dll
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\bin\Debug\net8.0\Fundamentos.pdb
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfo.cs
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.dll
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\refint\Fundamentos.dll
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.pdb
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\Fundamentos.genruntimeconfig.cache
+C:\Users\mirka\OneDrive\Documents\proyecto\backend\net\prod\Fundamentos\obj\Debug\net8.0\ref\Fundamentos.dll
